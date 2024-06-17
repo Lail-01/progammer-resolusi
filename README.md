@@ -1,3 +1,1 @@
-# progammer-resolusi
-
-Belajar GitHUb
+# Belajar GitHUb
